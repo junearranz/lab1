@@ -201,7 +201,7 @@ On branch main
 nothing to commit, working tree clean
 ```
 
-Hax un push de los cambios al repositorio en GitHub.
+Haz un push de los cambios al repositorio en GitHub.
 ```console
 June@DESKTOP-4ABLAGV MINGW64 ~/Repositorios/lab1 (main)
 $ git push origin main
